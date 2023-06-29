@@ -1,4 +1,3 @@
-# Rohan Gupta
 I'm a learning coder. I mainly script in Python but sometimes touch on HTML/CSS for my websites.
 
 ## Projects
