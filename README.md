@@ -1,6 +1,8 @@
 Hi There!
 
-I am a (learning) coder, and I love to use Python 🐍
+I am a (learning) coder, and I love to use Python 🐍 and C/C++
+
+I work on several fields like web development, and IoT hardware and software
 
 ## Projects
 dimensional_graphics: My 3D software renderer. It uses pygame-ce and is my favorite project. 🧊
