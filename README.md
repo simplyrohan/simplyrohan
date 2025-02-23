@@ -1,9 +1,10 @@
 # I am Rohan Gupta 👋
-## Technology
+
+## Technologies I use the most
 - Python
   - Flask
   - Pygame
-- Javascript
+- Javascript (Vanilla)
 - C/C++
   - Arduino Framework + ESP-IDF
   
