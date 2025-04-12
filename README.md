@@ -1,4 +1,4 @@
-# Hi, I'm Rohan Gupta 👋
+# Hi, I'm Rohan 👋
 Web developer and ESP32 enthusiast
 
 ## Technologies I use the most
